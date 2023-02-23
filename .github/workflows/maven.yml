@@ -11,8 +11,9 @@ name: Java CI with Maven
 on:
   push:
     branches: [ "master" ]
-  pull_request:
-    branches: [ "master" ]
+
+permissions: read-all|write-all
+
 jobs:
   build:
     runs-on: ubuntu-latest
