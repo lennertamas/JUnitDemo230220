@@ -1,0 +1,1 @@
+[{"uid":"99290f108fd230b9","name":"Sum test with positive values","time":{"start":1677228110546,"stop":1677228110568,"duration":22},"status":"passed","severity":"blocker"},{"uid":"4a637ebf10da03d4","name":"testSumWithNegativeValues()","time":{"start":1677228110622,"stop":1677228110626,"duration":4},"status":"failed","severity":"critical"}]
