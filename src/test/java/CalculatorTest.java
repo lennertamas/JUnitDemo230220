@@ -30,7 +30,7 @@ public class CalculatorTest {
     @Test
     public void testSumWithNegativeValues(){
         int actualResult = calc.Sum(-2, -3);
-        int expectedResult = -4;
+        int expectedResult = -7;
 
         Assertions.assertEquals(expectedResult, actualResult);
 
